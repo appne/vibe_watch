@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "appnet",
+    "longName": "vibe watch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "vibe watch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "329a9a54-6677-49e1-aec0-421975702d86",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
